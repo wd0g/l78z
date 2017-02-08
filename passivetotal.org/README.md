@@ -11,3 +11,6 @@ requests模块
 运行:python api.py
 然后输入subdomains www.example.com
 即可看到子域名
+
+### 还有
+api.py里面的邮箱账户自己去上面的网站注册,然后填写上就OK了~~~
